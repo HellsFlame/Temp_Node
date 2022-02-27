@@ -1,0 +1,14 @@
+{
+  "name": "nodetut2",
+  "version": "1.0.0",
+  "main": "1-intro.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
